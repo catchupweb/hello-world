@@ -1,6 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New Mense Please Register here Man</h1>
+    
+    <h1>New Members Please Register Here </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
@@ -8,7 +9,7 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="Enter Mobile"><b>Email</b></label>
+    <label for="Enter Mobile"><b>Mobile</b></label>
     <input type="text" placeholder="Enter Mobile Number" name="mobile" id="mobile" required>
     <br>
 
