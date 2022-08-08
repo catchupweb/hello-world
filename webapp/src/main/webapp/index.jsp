@@ -1,7 +1,11 @@
 <form action="action_page.php">
   <div class="container">
     
+<<<<<<< HEAD
     <h1>New Members Register Here to Register Now</h1>
+=======
+    <h1>New Members Register Here </h1>
+>>>>>>> 299eba2 (edited jsp)
     <p>Please fill in this form to create an account.</p>
     <hr>
 
