@@ -3,7 +3,7 @@
     
     <h1>New Members Register Here to Register Now</h1>
     
-    <p>Please fill in this form to create an account.</p>
+    <p>Please fill out this form to create an account.</p>
     <hr>
 
     <label for="email"><b>Email</b></label>
